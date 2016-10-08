@@ -1,0 +1,3 @@
+/home/option16/Desktop/Robotics/week5homework/build/CMakeFiles/edit_cache.dir
+/home/option16/Desktop/Robotics/week5homework/build/CMakeFiles/rebuild_cache.dir
+/home/option16/Desktop/Robotics/week5homework/build/CMakeFiles/main.dir
